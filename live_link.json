@@ -1,0 +1,229 @@
+{
+    "2025-11-17": [
+        {
+            "time": "08:00-09:00",
+            "title": "AR02: Invited Session Review: Quantum Effects in Plasmas",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33836336/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/3bf5c1df-9f30-4565-8575-15da3739912b_AR02DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/3bf5c1df-9f30-4565-8575-15da3739912b_AR02DPP2025_20251118170132_a626a8bb-652a-4f4f-b337-c00609536004.vtt"
+        },
+        {
+            "time": "09:30-12:30",
+            "title": "I02: Invited Session ICF: Approaches to High Gain Fusion",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33832627/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/885eb33a-1137-4163-8a2a-bcfddb4c3077_BI02DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/885eb33a-1137-4163-8a2a-bcfddb4c3077_BI02DPP2025_20251118190147_d740cc5d-a0fc-4df1-9271-9bc9d93fc0dc.vtt"
+        },
+        {
+            "time": "09:30-12:30",
+            "title": "BI03: Invited Session MFE: Alternative Concepts and Diagnostics",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33832634/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/e7e0658b-d71a-462f-a6f2-4fee2ff91e71_BI03DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/e7e0658b-d71a-462f-a6f2-4fee2ff91e71_BI03DPP2025_20251118213157_9a31cdbf-77d4-4c6d-8686-7261797023de.vtt"
+        },
+        {
+            "time": "14:00-17:00",
+            "title": "CI03: Invited Session MFE: Weimar Award and Pedestal and Transport",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33832904/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/363692ea-2748-4658-b317-dc7bdc2e0f68_CI03DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/363692ea-2748-4658-b317-dc7bdc2e0f68_CI03DPP2025_20251119000215_7459f737-e3c8-4fc6-9e07-395e674fa377.vtt"
+        },
+        {
+            "time": "14:00-17:00",
+            "title": "CT02: Rosenbluth Award and Beams and Radiation: Multi-GeV laser wakefield acceleration in optically generated plasma waveguides",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33833209/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/27b6269b-ae82-42aa-ab6c-0a55665802ce_CT02DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/27b6269b-ae82-42aa-ab6c-0a55665802ce_CT02DPP2025_20251119020229_67db9539-5cea-46ba-b792-865cf5301613.vtt"
+        },
+        {
+            "time": "14:00-17:00",
+            "title": "CV14: Virtual: ICF and HED",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33833214/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/5e4790d2-17ca-475d-a08b-4327004adee7_CV14DPP2025.mp4",
+            "vtt": null
+        }
+    ],
+    "2025-11-18": [
+        {
+            "time": "08:00-09:00",
+            "title": "FR02: Invited Session Review: The Negative Triangularity Tokamak Path for Fusion Pilot Plants: Experimental Progress and Future Prospects",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33836338/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/e609937c-792e-49b0-acbf-708444be6e50_FR02DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/e609937c-792e-49b0-acbf-708444be6e50_FR02DPP2025_20251119210418_2f8fdb5e-4fca-428e-8ffa-dbc5f282aa43.vtt"
+        },
+        {
+            "time": "09:30-12:30",
+            "title": "GI02: Invited Session HED: Stix Award, Proton imaging, and Warm Dense Matter",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33833225/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/fda58e08-a124-46a5-bdf2-6dd28895fb9c_GI02DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/fda58e08-a124-46a5-bdf2-6dd28895fb9c_GI02DPP2025_20251120053518_a863908c-de67-443d-acd9-670970beaa9e.vtt"
+        },
+        {
+            "time": "09:30-12:30",
+            "title": "GT03: Tutorial/Invited Session MFE: Fusion History, Design and Optimization",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33833518/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/69a014ba-07d3-44a4-94c4-92dd4f6288e4_GT03DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/69a014ba-07d3-44a4-94c4-92dd4f6288e4_GT03DPP2025_20251119233430_849f7421-2f31-4274-b41b-4b6e74cf1603.vtt"
+        },
+        {
+            "time": "14:00-17:00",
+            "title": "JI02: Invited Session ICF: Measurements & Novel Approaches",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33833524/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/7a872224-a348-45f6-8e6c-a6a3e59590ea_JI02DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/7a872224-a348-45f6-8e6c-a6a3e59590ea_JI02DPP2025_20251120063521_824a66b7-67ca-4b1b-9c38-8baf43430f65.vtt"
+        },
+        {
+            "time": "14:00-15:42",
+            "title": "JI03: Invited Session: Education, Public Engagement, and Workforce Development",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33833529/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/b14179b2-949f-49f7-a2ed-04e8754070c2_JI03DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/b14179b2-949f-49f7-a2ed-04e8754070c2_JI03DPP2025_20251120193651_cb6ff14f-3ff8-462a-85e5-cdb4e963377d.vtt"
+        },
+        {
+            "time": "14:00-15:24",
+            "title": "JV14: Virtual: Low-temperature plasmas",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33833773/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/591bf65c-0c1c-47e1-ab39-60c0bc8ed82e_JV14DPP2025.mp4",
+            "vtt": null
+        }
+    ],
+    "2025-11-19": [
+        {
+            "time": "08:00-09:00",
+            "title": "MR02: Maxwell Prize Address: Measuring the Phase Space Transport of Energetic Particles in Magnetic Fusion Experiments",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33836361/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/7866d78a-90a2-4a1e-a970-84ec345b2ee0_MR02DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/7866d78a-90a2-4a1e-a970-84ec345b2ee0_MR02DPP2025_20251130170853_98d3125a-8efb-41cb-bfab-daa2dc6d3dea.vtt"
+        },
+        {
+            "time": "09:30-12:30",
+            "title": "NI02: Invited Session Space and Astro: Cosmic plasmas, Astrophysical Plasma Turbulence",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33833781/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/203fdf19-dbf1-4a0b-956e-7cdfaedcc8fa_NI02DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/203fdf19-dbf1-4a0b-956e-7cdfaedcc8fa_NI02DPP2025_20251121163858_335f0a32-4ebd-436e-aa78-78dfeae9ebcd.vtt"
+        },
+        {
+            "time": "09:30-12:30",
+            "title": "NI03: Invited Session MFE: Energetic Particles, Current Drive, and Burning Plasmas",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33833786/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/dde338d6-f0b0-4596-a87d-65de9989df5c_NI03DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/dde338d6-f0b0-4596-a87d-65de9989df5c_NI03DPP2025_20251122053947_fbcd6e39-2722-46ba-ada6-6b7e2339b98f.vtt"
+        },
+        {
+            "time": "09:30-11:18",
+            "title": "NV14: Virtual: Fundemental Plasmas I",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33834090/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/a5ae0ac1-2072-4128-a203-9514722f1519_NV14DPP2025.mp4",
+            "vtt": null
+        },
+        {
+            "time": "14:00-17:00",
+            "title": "PI03: Invited Session MFE: Turbulence and Transport",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33834101/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/beadce6b-aa66-4932-a946-5e9d0ef48a61_PI03DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/beadce6b-aa66-4932-a946-5e9d0ef48a61_PI03DPP2025_20251122181041_dc0bf27b-0729-410b-b259-8c0178c533de.vtt"
+        },
+        {
+            "time": "14:00-17:00",
+            "title": "PT02: Tutorial/Invited Session: Space and Astro Reconnection and Shocks",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33834352/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/828fe177-6f17-4bd4-a781-7e7cadefa2c5_PT02DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/828fe177-6f17-4bd4-a781-7e7cadefa2c5_PT02DPP2025_20251122171037_33b95672-d47e-483c-a1fb-76bb55255147.vtt"
+        },
+        {
+            "time": "14:00-17:00",
+            "title": "PT04: Tutorial/Invited Session: Plasma Diagnostics",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33834358/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/18bdacee-1133-4e6e-b345-f957ec401712_PT04DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/18bdacee-1133-4e6e-b345-f957ec401712_PT04DPP2025_20251123061139_717c6960-9cf7-49b2-a9f0-a02d232ab75b.vtt"
+        },
+        {
+            "time": "14:00-15:24",
+            "title": "PV14: Virtual: Fundamental Plasmas II",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33834363/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/5eaee7be-0f42-4ba2-a0ed-d6954f4ad56b_PV14DPP2025.mp4",
+            "vtt": null
+        }
+    ],
+    "2025-11-20": [
+        {
+            "time": "08:00-09:00",
+            "title": "SR02: Invited Session Review: Exploration of kinetic plasma physics through in-situ phase-space measurements in laboratory plasmas",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33836369/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/9a541235-5e5e-4649-9f80-a591b3c3f9d0_SR01DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/9a541235-5e5e-4649-9f80-a591b3c3f9d0_SR01DPP2025_20251124044246_3c9bd482-1d6d-4409-8306-d8f17204088e.vtt"
+        },
+        {
+            "time": "09:30-12:30",
+            "title": "TI02: Invited Session Fundamental Plasma: Ultracold, Nonneutral, and Topological Plasmas",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33834373/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/9b48e878-77f0-4182-bb26-973ae0324345_TI02DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/9b48e878-77f0-4182-bb26-973ae0324345_TI02DPP2025_20251125221537_29d1ced5-1d18-41d4-b823-7e527fd6d0b0.vtt"
+        },
+        {
+            "time": "09:30-12:30",
+            "title": "TT03: Tutorial/Invited Session: Low-temperature plasma science, engineering, technology, and applications",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33834635/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/8dde67f5-92bd-4a10-886f-0cd402da7cb7_TT03DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/8dde67f5-92bd-4a10-886f-0cd402da7cb7_TT03DPP2025_20251125224548_ca322bc7-f361-4ef7-926b-4295e4d474c5.vtt"
+        },
+        {
+            "time": "09:30-11:06",
+            "title": "TV14: Virtual: Magnetic Fusion Energy",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33834641/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/5a7171fe-0f5c-44ef-91b3-172a7afb7b23_TV14DPP2025.mp4",
+            "vtt": null
+        },
+        {
+            "time": "14:00-17:00",
+            "title": "UI04: Invited MFE: Divertor and ELMs",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33834650/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/3b104384-f48b-4b35-ac6d-221ee0c42b96_UI04DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/3b104384-f48b-4b35-ac6d-221ee0c42b96_UI04DPP2025_20251129010441_ee3b2af7-eb5e-4b82-bfee-659e826e9ec1.vtt"
+        },
+        {
+            "time": "14:00-17:00",
+            "title": "UT02: Tutorial/Invited Session Fundamental Plasma: Spectral Approach to Anomalous Diffusion, Nonlinear Phenomena",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33834858/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/8e53d37a-65cc-4edf-911f-365c6bcc141a_UT02DPP2025.mp4",
+            "vtt": null
+        },
+        {
+            "time": "14:00-17:00",
+            "title": "UT03: Tutorial/Invited Session HED: Radiation",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33834864/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/945b45e3-4da8-4e96-9e42-2214ebbf0701_UT03DPP2025InternetLost.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/945b45e3-4da8-4e96-9e42-2214ebbf0701_UT03DPP2025InternetLost_20251126004606_ea75135c-1c24-4f36-8718-362b3c038668.vtt"
+        },
+        {
+            "time": "14:00-15:48",
+            "title": "UV14: Virtual: Beams",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33834869/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/0a5e6859-729e-49c8-a562-165e24f6ae0e_UV14DPP2025.mp4",
+            "vtt": null
+        }
+    ],
+    "2025-11-21": [
+        {
+            "time": "08:00-09:00",
+            "title": "YR02: Invited Session Review: Ohmic-heating-driven electrothermal instability (ETI) as a seed perturbation for standard and helically-oriented magneto-Rayleigh Taylor (MRT) instability on magnetically-driven imploding liners",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33836372/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/30604703-97e8-4f1b-a4e8-6357b41fd136_YR02DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/30604703-97e8-4f1b-a4e8-6357b41fd136_YR02DPP2025_20251129013451_500e2396-5dc9-45f2-a7be-6f4ced7421a6.vtt"
+        },
+        {
+            "time": "09:30-12:30",
+            "title": "ZI02: Invited Session ICF: Hohlraums & LPI",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33834879/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/b02cc8f2-4c5d-4ebe-8c66-15aac842f327_ZI02DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/b02cc8f2-4c5d-4ebe-8c66-15aac842f327_ZI02DPP2025_20251130210919_8a1fb45b-9d6a-4b0e-b3d4-563cf4b8e451.vtt"
+        },
+        {
+            "time": "09:30-12:30",
+            "title": "ZI03: Invited Session MFE: Turbulence and Transport II",
+            "details": "https://apsapp.bravuratechnologies.com/APS-WEB/?id=33600037#!/agenda/33834886/details",
+            "mp4": "https://bee-content.s3.amazonaws.com/beeUploadedFiles/33600037/7e46f331-7017-4692-9509-ada235e2c6f1_ZI03DPP2025.mp4",
+            "vtt": "https://s3.us-east-1.amazonaws.com/bee-content/beeUploadedFiles/33600037/7e46f331-7017-4692-9509-ada235e2c6f1_ZI03DPP2025_20251130230934_419afc65-c3fa-4ece-b833-24e4a9806992.vtt"
+        }
+    ]
+}
